@@ -2,6 +2,7 @@ package git;
 
 public class Git {
 	
+
 	private static void git3() {
 		
 		System.out.println("sample git");
@@ -14,5 +15,15 @@ public class Git {
 		git3();
 		
 	}
+
 	
+	private static void git2() { System.out.println("sample git"); }
+	
+	
+	
+		
+		
+	
+
+
 }
