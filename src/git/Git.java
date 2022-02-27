@@ -2,7 +2,7 @@ package git;
 
 public class Git {
 	
-	private static void git() {
+	private static void git2() {
 		
 		System.out.println("sample git");
 	}
@@ -11,7 +11,7 @@ public class Git {
 		
 		System.out.println("this is git");
 		
-		git();
+		git2();
 		
 	}
 	
